@@ -13,6 +13,7 @@ public class GYM {
 			System.out.printf("Winner is " + p1.getNAME() + ".");
 			
 			p1.setCP(p1.getCP() + 500);
+		
 		}
 		else{
 			
